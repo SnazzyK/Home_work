@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "age": 31,
+        "position": "Software Engineer",
+        "phone": "+1-202-555-0101"
+    },
+    {
+        "name": "John Doe",
+        "gender": "male",
+        "address": "123 Main Street, Springfield, Illinois, 62701",
+        "age": 28,
+        "position": "Marketing Manager",
+        "phone": "+1-202-555-0102"
+    },
+    {
+        "name": "Jane Smith",
+        "gender": "female",
+        "address": "456 Elm Street, Boston, Massachusetts, 02108",
+        "age": 35,
+        "position": "Data Scientist",
+        "phone": "+1-202-555-0103"
+    },
+    {
+        "name": "Michael Johnson",
+        "gender": "male",
+        "address": "789 Oak Street, Austin, Texas, 73301",
+        "age": 42,
+        "position": "Project Manager",
+        "phone": "+1-202-555-0104"
+    },
+    {
+        "name": "Emily Davis",
+        "gender": "female",
+        "address": "321 Pine Street, Seattle, Washington, 98101",
+        "age": 29,
+        "position": "Graphic Designer",
+        "phone": "+1-202-555-0105"
+    },
+    {
+        "name": "Robert Wilson",
+        "gender": "male",
+        "address": "654 Cedar Street, Denver, Colorado, 80201",
+        "age": 37,
+        "position": "Sales Representative",
+        "phone": "+1-202-555-0106"
+    },
+    {
+        "name": "Linda Brown",
+        "gender": "female",
+        "address": "987 Maple Street, Miami, Florida, 33101",
+        "age": 33,
+        "position": "HR Manager",
+        "phone": "+1-202-555-0107"
+    }
+]

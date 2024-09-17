@@ -1,0 +1,800 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year_written": 1949,
+        "price": 9.99,
+        "pages": 328
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year_written": 1960,
+        "price": 10.99,
+        "pages": 336
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year_written": 1925,
+        "price": 8.75,
+        "pages": 218
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "year_written": 1967,
+        "price": 14.25,
+        "pages": 448
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year_written": 1813,
+        "price": 7.99,
+        "pages": 432
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year_written": 1951,
+        "price": 9.50,
+        "pages": 277
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year_written": 1851,
+        "price": 12.99,
+        "pages": 720
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year_written": 1869,
+        "price": 15.75,
+        "pages": 1225
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year_written": -800,
+        "price": 11.25,
+        "pages": 448
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year_written": 1866,
+        "price": 10.50,
+        "pages": 671
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year_written": 1954,
+        "price": 25.99,
+        "pages": 1178
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year_written": 1932,
+        "price": 9.75,
+        "pages": 311
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year_written": 1937,
+        "price": 14.99,
+        "pages": 310
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year_written": 1847,
+        "price": 8.99,
+        "pages": 532
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "year_written": 1847,
+        "price": 7.50,
+        "pages": 416
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year_written": 1890,
+        "price": 9.25,
+        "pages": 254
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year_written": 1818,
+        "price": 8.75,
+        "pages": 280
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year_written": 1897,
+        "price": 10.99,
+        "pages": 418
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year_written": 1884,
+        "price": 7.99,
+        "pages": 366
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "year_written": 1862,
+        "price": 13.50,
+        "pages": 1463
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year_written": 1877,
+        "price": 14.99,
+        "pages": 864
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year_written": 1880,
+        "price": 12.75,
+        "pages": 824
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year_written": 1605,
+        "price": 11.99,
+        "pages": 1056
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "year_written": 1922,
+        "price": 15.50,
+        "pages": 730
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "year_written": 1320,
+        "price": 10.25,
+        "pages": 928
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year_written": 1851,
+        "price": 12.99,
+        "pages": 720
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "year_written": -750,
+        "price": 11.75,
+        "pages": 683
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "year_written": 1899,
+        "price": 8.50,
+        "pages": 72
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "year_written": 1850,
+        "price": 9.25,
+        "pages": 279
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year_written": 1861,
+        "price": 10.50,
+        "pages": 544
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year_written": 1859,
+        "price": 9.75,
+        "pages": 489
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "year_written": 1844,
+        "price": 14.99,
+        "pages": 1276
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "year_written": 1892,
+        "price": 8.99,
+        "pages": 307
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "year_written": 1939,
+        "price": 11.50,
+        "pages": 464
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "year_written": 1961,
+        "price": 10.99,
+        "pages": 453
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "year_written": 1969,
+        "price": 9.50,
+        "pages": 275
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year_written": 1953,
+        "price": 8.75,
+        "pages": 179
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "year_written": 1926,
+        "price": 9.99,
+        "pages": 251
+    },
+    {
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "year_written": 1940,
+        "price": 12.50,
+        "pages": 480
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "year_written": 1952,
+        "price": 7.99,
+        "pages": 127
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "year_written": 2006,
+        "price": 10.25,
+        "pages": 287
+    },
+    {
+        "title": "No Country for Old Men",
+        "author": "Cormac McCarthy",
+        "year_written": 2005,
+        "price": 9.75,
+        "pages": 309
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "year_written": 1987,
+        "price": 11.99,
+        "pages": 321
+    },
+    {
+        "title": "Song of Solomon",
+        "author": "Toni Morrison",
+        "year_written": 1977,
+        "price": 10.50,
+        "pages": 337
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "year_written": 1982,
+        "price": 9.99,
+        "pages": 295
+    },
+    {
+        "title": "Their Eyes Were Watching God",
+        "author": "Zora Neale Hurston",
+        "year_written": 1937,
+        "price": 8.75,
+        "pages": 219
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "year_written": 1985,
+        "price": 10.99,
+        "pages": 311
+    },
+    {
+        "title": "Oryx and Crake",
+        "author": "Margaret Atwood",
+        "year_written": 2003,
+        "price": 11.50,
+        "pages": 374
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "year_written": 1963,
+        "price": 8.99,
+        "pages": 244
+    },
+    {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "year_written": 1957,
+        "price": 9.50,
+        "pages": 310
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "year_written": 1962,
+        "price": 10.25,
+        "pages": 320
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "year_written": 1977,
+        "price": 9.99,
+        "pages": 447
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "year_written": 1974,
+        "price": 8.75,
+        "pages": 199
+    },
+    {
+        "title": "IT",
+        "author": "Stephen King",
+        "year_written": 1986,
+        "price": 14.99,
+        "pages": 1138
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King",
+        "year_written": 1978,
+        "price": 12.50,
+        "pages": 1153
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "year_written": 2007,
+        "price": 11.99,
+        "pages": 662
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "author": "Patrick Rothfuss",
+        "year_written": 2011,
+        "price": 13.50,
+        "pages": 994
+    },
+    {
+        "title": "The Lies of Locke Lamora",
+        "author": "Scott Lynch",
+        "year_written": 2006,
+        "price": 10.99,
+        "pages": 512
+    },
+    {
+        "title": "Red Seas Under Red Skies",
+        "author": "Scott Lynch",
+        "year_written": 2007,
+        "price": 11.50,
+        "pages": 592
+    },
+    {
+        "title": "The Republic of Thieves",
+        "author": "Scott Lynch",
+        "year_written": 2013,
+        "price": 12.75,
+        "pages": 672
+    },
+    {
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson",
+        "year_written": 2010,
+        "price": 14.99,
+        "pages": 1280
+    },
+    {
+        "title": "Words of Radiance",
+        "author": "Brandon Sanderson",
+        "year_written": 2014,
+        "price": 15.50,
+        "pages": 1088
+    },
+    {
+        "title": "Oathbringer",
+        "author": "Brandon Sanderson",
+        "year_written": 2017,
+        "price": 16.99,
+        "pages": 1248
+    },
+    {
+        "title": "The Hero of Ages",
+        "author": "Brandon Sanderson",
+        "year_written": 2008,
+        "price": 13.50,
+        "pages": 572
+    },
+    {
+        "title": "The Final Empire",
+        "author": "Brandon Sanderson",
+        "year_written": 2006,
+        "price": 10.99,
+        "pages": 647
+    },
+    {
+        "title": "The Well of Ascension",
+        "author": "Brandon Sanderson",
+        "year_written": 2007,
+        "price": 11.50,
+        "pages": 784
+    },
+    {
+        "title": "The Alloy of Law",
+        "author": "Brandon Sanderson",
+        "year_written": 2011,
+        "price": 9.99,
+        "pages": 332
+    },
+    {
+        "title": "Shadows of Self",
+        "author": "Brandon Sanderson",
+        "year_written": 2015,
+        "price": 10.50,
+        "pages": 384
+    },
+    {
+        "title": "The Bands of Mourning",
+        "author": "Brandon Sanderson",
+        "year_written": 2016,
+        "price": 11.25,
+        "pages": 448
+    },
+    {
+        "title": "Mistborn: Secret History",
+        "author": "Brandon Sanderson",
+        "year_written": 2016,
+        "price": 8.75,
+        "pages": 224
+    },
+    {
+        "title": "Elantris",
+        "author": "Brandon Sanderson",
+        "year_written": 2005,
+        "price": 10.99,
+        "pages": 638
+    },
+    {
+        "title": "Warbreaker",
+        "author": "Brandon Sanderson",
+        "year_written": 2009,
+        "price": 9.50,
+        "pages": 688
+    },
+    {
+        "title": "The Emperor's Soul",
+        "author": "Brandon Sanderson",
+        "year_written": 2012,
+        "price": 7.99,
+        "pages": 176
+    },
+    {
+        "title": "The Rithmatist",
+        "author": "Brandon Sanderson",
+        "year_written": 2013,
+        "price": 9.25,
+        "pages": 384
+    },
+    {
+        "title": "Steelheart",
+        "author": "Brandon Sanderson",
+        "year_written": 2013,
+        "price": 8.75,
+        "pages": 386
+    },
+    {
+        "title": "Firefight",
+        "author": "Brandon Sanderson",
+        "year_written": 2015,
+        "price": 9.50,
+        "pages": 432
+    },
+    {
+        "title": "Calamity",
+        "author": "Brandon Sanderson",
+        "year_written": 2016,
+        "price": 9.99,
+        "pages": 448
+    },
+    {
+        "title": "The Dark Tower I: The Gunslinger",
+        "author": "Stephen King",
+        "year_written": 1982,
+        "price": 8.99,
+        "pages": 224
+    },
+    {
+        "title": "The Dark Tower II: The Drawing of the Three",
+        "author": "Stephen King",
+        "year_written": 1987,
+        "price": 9.50,
+        "pages": 400
+    },
+    {
+        "title": "The Dark Tower III: The Waste Lands",
+        "author": "Stephen King",
+        "year_written": 1991,
+        "price": 10.25,
+        "pages": 512
+    },
+    {
+        "title": "The Dark Tower IV: Wizard and Glass",
+        "author": "Stephen King",
+        "year_written": 1997,
+        "price": 11.99,
+        "pages": 688
+    },
+    {
+        "title": "The Dark Tower V: Wolves of the Calla",
+        "author": "Stephen King",
+        "year_written": 2003,
+        "price": 12.50,
+        "pages": 714
+    },
+    {
+        "title": "The Dark Tower VI: Song of Susannah",
+        "author": "Stephen King",
+        "year_written": 2004,
+        "price": 11.50,
+        "pages": 432
+    },
+    {
+        "title": "The Dark Tower VII: The Dark Tower",
+        "author": "Stephen King",
+        "year_written": 2004,
+        "price": 13.99,
+        "pages": 845
+    },
+    {
+        "title": "The Stand: Complete and Uncut",
+        "author": "Stephen King",
+        "year_written": 1990,
+        "price": 14.99,
+        "pages": 1153
+    },
+    {
+        "title": "The Green Mile",
+        "author": "Stephen King",
+        "year_written": 1996,
+        "price": 10.99,
+        "pages": 592
+    },
+    {
+        "title": "Misery",
+        "author": "Stephen King",
+        "year_written": 1987,
+        "price": 9.75,
+        "pages": 370
+    },
+    {
+        "title": "The Dead Zone",
+        "author": "Stephen King",
+        "year_written": 1979,
+        "price": 10.50,
+        "pages": 428
+    },
+    {
+        "title": "Pet Sematary",
+        "author": "Stephen King",
+        "year_written": 1983,
+        "price": 9.99,
+        "pages": 416
+    },
+    {
+        "title": "The Talisman",
+        "author": "Stephen King and Peter Straub",
+        "year_written": 1984,
+        "price": 11.99,
+        "pages": 646
+    },
+    {
+        "title": "Black House",
+        "author": "Stephen King and Peter Straub",
+        "year_written": 2001,
+        "price": 12.50,
+        "pages": 690
+    },
+    {
+        "title": "The Eyes of the Dragon",
+        "author": "Stephen King",
+        "year_written": 1987,
+        "price": 9.50,
+        "pages": 384
+    },
+    {
+        "title": "The Tommyknockers",
+        "author": "Stephen King",
+        "year_written": 1987,
+        "price": 10.99,
+        "pages": 558
+    },
+    {
+        "title": "Needful Things",
+        "author": "Stephen King",
+        "year_written": 1991,
+        "price": 11.50,
+        "pages": 690
+    },
+    {
+        "title": "The Girl Who Loved Tom Gordon",
+        "author": "Stephen King",
+        "year_written": 1999,
+        "price": 8.75,
+        "pages": 224
+    },
+    {
+        "title": "Dreamcatcher",
+        "author": "Stephen King",
+        "year_written": 2001,
+        "price": 10.25,
+        "pages": 620
+    },
+    {
+        "title": "11/22/63",
+        "author": "Stephen King",
+        "year_written": 2011,
+        "price": 13.99,
+        "pages": 849
+    },
+    {
+        "title": "Doctor Sleep",
+        "author": "Stephen King",
+        "year_written": 2013,
+        "price": 11.99,
+        "pages": 531
+    },
+    {
+        "title": "Revival",
+        "author": "Stephen King",
+        "year_written": 2014,
+        "price": 10.50,
+        "pages": 403
+    },
+    {
+        "title": "Finders Keepers",
+        "author": "Stephen King",
+        "year_written": 2015,
+        "price": 9.99,
+        "pages": 434
+    },
+    {
+        "title": "End of Watch",
+        "author": "Stephen King",
+        "year_written": 2016,
+        "price": 10.99,
+        "pages": 496
+    },
+    {
+        "title": "The Institute",
+        "author": "Stephen King",
+        "year_written": 2019,
+        "price": 12.50,
+        "pages": 576
+    },
+    {
+        "title": "The Outsider",
+        "author": "Stephen King",
+        "year_written": 2018,
+        "price": 11.99,
+        "pages": 561
+    },
+    {
+        "title": "If It Bleeds",
+        "author": "Stephen King",
+        "year_written": 2020,
+        "price": 10.99,
+        "pages": 480
+    },
+    {
+        "title": "Later",
+        "author": "Stephen King",
+        "year_written": 2021,
+        "price": 9.50,
+        "pages": 256
+    },
+    {
+        "title": "Billy Summers",
+        "author": "Stephen King",
+        "year_written": 2021,
+        "price": 12.99,
+        "pages": 528
+    },
+    {
+        "title": "Fairy Tale",
+        "author": "Stephen King",
+        "year_written": 2022,
+        "price": 14.99,
+        "pages": 608
+    },
+    {
+        "title": "The Stand: Captain Trips",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2008,
+        "price": 10.99,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: American Nightmares",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2009,
+        "price": 11.50,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: Soul Survivors",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2010,
+        "price": 11.99,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: Hardcases",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2011,
+        "price": 12.50,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: No Man's Land",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2012,
+        "price": 12.99,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: The Night Has Come",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2012,
+        "price": 13.50,
+        "pages": 160
+    },
+    {
+        "title": "The Stand: The Complete and Uncut Edition",
+        "author": "Roberto Aguirre-Sacasa",
+        "year_written": 2012,
+        "price": 14.99,
+        "pages": 960
+    }
+]
